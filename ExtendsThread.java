@@ -2,6 +2,14 @@ import java.io.*;
 import java.lang.Thread;
 import java.util.Random;
 
+// https://medium.com/javarevisited/do-you-know-why-local-variables-are-thread-safe-in-java-latest-e4f98e013ac
+// https://github.com/kanastasov/MultithreadingJava/blob/master/1_StartingThread/src/implementsRunnable/Application.java
+// https://mkyong.com/swing/java-swing-hello-world-example/
+// https://stackoverflow.com/questions/541487/implements-runnable-vs-extends-thread-in-java/15226278#15226278
+// https://www.geeksforgeeks.org/implement-runnable-vs-extend-thread-in-java/
+// https://www.geeksforgeeks.org/thread-sleep-method-in-java-with-examples/
+// 
+
 class ExtendsThread extends Thread {
 
     public Integer ClassID;

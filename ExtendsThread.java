@@ -9,6 +9,7 @@ import java.util.Random;
 // https://www.geeksforgeeks.org/implement-runnable-vs-extend-thread-in-java/
 // https://www.geeksforgeeks.org/thread-sleep-method-in-java-with-examples/
 // https://github.com/harblaith7/Docker-AWS-Crash-Course/blob/main/package.json
+// https://docs.docker.com/language/java/deploy/
 
 class ExtendsThread extends Thread {
 
